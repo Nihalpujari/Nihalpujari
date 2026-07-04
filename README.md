@@ -13,6 +13,7 @@
 <a href="mailto:nihalpujari2@gmail.com">
   <img src="https://img.shields.io/badge/Email-nihalpujari2%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Nihalpujari&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -31,14 +32,18 @@
 
 ## 🚀 Featured Projects
 
-### 🛫 [AI CEO — Strategic Intelligence Agent](https://github.com/Nihalpujari/AI-CEO-Strategic-Intelligence-Agent-Lufthansa-airlines)
-An **autonomous AI agent** that advises a CEO on strategy. Given a goal, it **plans** its research,
-**retrieves** evidence with 3 tools (semantic + BM25 + hybrid), **analyzes** it, **decides** whether
-the evidence is sufficient (self-correcting if not), **recommends** an action, and **validates** it
-against the evidence — a full *Goal → Plan → Retrieve → Analyze → Decide → Recommend → Validate*
-loop, served through an interactive dashboard with a live "Ask the AI CEO" chat.
+[![Live Demo](https://img.shields.io/badge/🔴_Try_it_Live-AI_CEO_Agent-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-agent-lufthansa-airlines.streamlit.app/)
 
-`RAG` · `AI Agents` · `Ollama (Llama 3.1)` · `ChromaDB` · `Zero-shot classification` · `Streamlit`
+### 🛫 AI CEO — Strategic Intelligence Agent &nbsp;·&nbsp; [🔴 **Live Demo**](https://ai-agent-lufthansa-airlines.streamlit.app/) &nbsp;·&nbsp; [Code](https://github.com/Nihalpujari/AI-CEO-Strategic-Intelligence-Agent-Lufthansa-airlines)
+
+An **autonomous AI agent** that advises a CEO on strategy. Given a goal, it **plans** its research,
+**retrieves** evidence with 3 tools (semantic + BM25 + hybrid, fused by consensus), **analyzes** it,
+**decides** whether the evidence is sufficient (self-correcting if not), **recommends** an action, and
+**validates** it against the evidence — a full *Goal → Plan → Retrieve → Analyze → Decide → Recommend →
+Validate* loop, served through an interactive dashboard with a live "Ask the AI CEO" chat.
+**🚀 Deployed on Streamlit Cloud** — runs on local Ollama or free hosted Groq (no paid APIs).
+
+`RAG` · `AI Agents` · `Llama 3.1 (Ollama / Groq)` · `ChromaDB` · `BM25` · `Zero-shot classification` · `Streamlit`
 
 ### 🎨 AI Content Generator — *Collaborative Industry Project (SRH)*
 A **multimodal** system that generates marketing-ready **text + visuals** from short prompts.
@@ -46,9 +51,9 @@ A **multimodal** system that generates marketing-ready **text + visuals** from s
 `Multimodal AI` · `Transformers` · `Image Generation`
 
 ### 📚 [ML Practice](https://github.com/Nihalpujari/ML_Practice)
-A hands-on lab covering the **full ML workflow** — preprocessing → regression → ensembles → unsupervised → NLP → transformers.
+A hands-on lab covering the **full ML workflow** — preprocessing → regression → ensembles → unsupervised → NLP → transformers → RAG.
 
-`scikit-learn` · `PyTorch` · `Transformers` · `End-to-end projects`
+`scikit-learn` · `TensorFlow/Keras` · `Transformers` · `End-to-end projects`
 
 ---
 
@@ -74,14 +79,15 @@ flowchart LR
 | 5 | K-Means, PCA, Penguin clustering project | [`Unsupervised/`](https://github.com/Nihalpujari/ML_Practice/tree/main/Unsupervised) |
 | 6 | GridSearchCV, RandomizedSearchCV, Pipelines | [`Hyperparameter tuning/`](https://github.com/Nihalpujari/ML_Practice/tree/main/Hyperparameter%20tuning) |
 | 7 | NLTK → spaCy → GloVe → Word2Vec → Transformers | [`NLP/`](https://github.com/Nihalpujari/ML_Practice/tree/main/NLP) |
-| 8 | Real-world end-to-end projects | [`Titanic/`](https://github.com/Nihalpujari/ML_Practice/tree/main/Titanic) · [`real data/`](https://github.com/Nihalpujari/ML_Practice/tree/main/real%20data) |
+| 8 | RAG from scratch + LangChain / LangGraph | [`RAG deep dive/`](https://github.com/Nihalpujari/ML_Practice/tree/main/RAG%20deep%20dive) |
+| 9 | Real-world end-to-end projects | [`Titanic/`](https://github.com/Nihalpujari/ML_Practice/tree/main/Titanic) · [`real data/`](https://github.com/Nihalpujari/ML_Practice/tree/main/real%20data) |
 
 ---
 
 ## 🌱 Currently Learning
 
 - 🤗 **Transformers & Hugging Face** — sentiment, zero-shot, QNLI pipelines
-- 🕸️ **RAG & AI Agents** — retrieval, orchestration, self-correcting & validating loops with local LLMs
+- 🕸️ **RAG & AI Agents** — LangChain, LangGraph, retrieval, orchestration & self-correcting / validating agent loops with local LLMs
 - 🧠 **RNNs, LSTMs, Word2Vec** — building sequence models from scratch in Keras
 - 🎨 **Multimodal AI** — combining text + image generation (via my Industry Project)
 - 🐳 **MLOps basics** — Docker, model deployment, AWS / GCP
@@ -99,7 +105,9 @@ flowchart LR
 ### 🤖 LLM / GenAI
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -109,7 +117,7 @@ flowchart LR
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 🗄️ Databases & Backend
@@ -120,6 +128,7 @@ flowchart LR
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠️ Tools
@@ -143,6 +152,10 @@ flowchart LR
 <br/>
 
 <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
