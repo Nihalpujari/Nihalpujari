@@ -144,10 +144,14 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
+<!-- ⚠️ If stats/trophies show blank, the public servers are rate-limited. Permanent fix: self-host
+     github-readme-stats on your own Vercel and replace "github-readme-stats.vercel.app" below with
+     your own "<name>.vercel.app". Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/>
 
@@ -155,7 +159,7 @@ flowchart LR
 
 <br/>
 
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&margin-w=4&column=7" />
 
 </div>
 
