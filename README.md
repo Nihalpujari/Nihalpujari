@@ -144,24 +144,26 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ If stats/trophies show blank, the public servers are rate-limited. Permanent fix: self-host
-     github-readme-stats on your own Vercel and replace "github-readme-stats.vercel.app" below with
-     your own "<name>.vercel.app". Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
-
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+![Followers](https://img.shields.io/github/followers/Nihalpujari?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=1c1c1c)
+&nbsp;
+![AI CEO stars](https://img.shields.io/github/stars/Nihalpujari/AI-CEO-Strategic-Intelligence-Agent-Lufthansa-airlines?style=for-the-badge&logo=github&label=AI%20CEO%20%E2%AD%90&color=58A6FF&labelColor=1c1c1c)
+&nbsp;
+![ML Practice stars](https://img.shields.io/github/stars/Nihalpujari/ML_Practice?style=for-the-badge&logo=github&label=ML%20Practice%20%E2%AD%90&color=58A6FF&labelColor=1c1c1c)
 
-<br/>
+<br/><br/>
 
-<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&margin-w=4&column=7" />
+<!-- Streak card kept — this service (demolab) is usually reliable. If it ever blanks, delete this line. -->
+<img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true" />
 
 </div>
+
+<!-- NOTE: the github-readme-stats "stats" + "top languages" cards and the trophy were removed here
+     because the free public servers frequently rate-limit and render blank. To bring them back
+     reliably, self-host github-readme-stats on your own Vercel (free), then paste your own
+     "<name>.vercel.app" stats/top-langs URLs above:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
 
 ---
 
