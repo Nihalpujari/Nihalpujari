@@ -148,9 +148,9 @@ flowchart LR
 
 ![Followers](https://img.shields.io/github/followers/Nihalpujari?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=1c1c1c)
 &nbsp;
-![AI CEO stars](https://img.shields.io/github/stars/Nihalpujari/AI-CEO-Strategic-Intelligence-Agent-Lufthansa-airlines?style=for-the-badge&logo=github&label=AI%20CEO%20%E2%AD%90&color=58A6FF&labelColor=1c1c1c)
+![Total Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNihalpujari&query=%24.stars&style=for-the-badge&logo=github&label=Total%20Stars&color=58A6FF&labelColor=1c1c1c)
 &nbsp;
-![ML Practice stars](https://img.shields.io/github/stars/Nihalpujari/ML_Practice?style=for-the-badge&logo=github&label=ML%20Practice%20%E2%AD%90&color=58A6FF&labelColor=1c1c1c)
+![Total Forks](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNihalpujari&query=%24.forks&style=for-the-badge&logo=github&label=Total%20Forks&color=58A6FF&labelColor=1c1c1c)
 
 <br/><br/>
 
