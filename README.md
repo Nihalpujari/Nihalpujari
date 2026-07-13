@@ -1,5 +1,37 @@
 <div align="center">
 
+<a href="https://ai-agent-lufthansa-airlines.streamlit.app/" aria-label="Live AI CEO demo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <img src="assets/light.svg" alt="Nihal Pujari — AI · ML · RAG">
+  </picture>
+</a>
+<a href="https://github.com/Nihalpujari/ML_Practice" aria-label="ML Practice repo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <img src="assets/light.svg" alt="Nihal Pujari — AI · ML · RAG" width="100%">
+  </picture>  
+</a>
+
+<br/>
+
+<img alt="GitHub followers">
+&nbsp;
+<img alt="GitHub stars across all repos">
+&nbsp;
+<img alt="GitHub forks across all repos">
+
+<br/><br/>
+
+<img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true&background=00000000" alt="Streak"/>
+
+</div>
+
+---
+
+## 💫 About Me
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <img src="light.svg" alt="Nihal Pujari — AI · ML · RAG" width="100%">
