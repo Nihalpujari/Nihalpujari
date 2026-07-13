@@ -513,7 +513,7 @@ text{user-select:none}
 </g>
 
 <!-- footer -->
-<text x="590" y="778" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,monospace" font-size="9" letter-spacing="2" fill="#64748B" opacity="0">— CRAFTED IN PURE SVG · NO JAVASCRIPT —
+
   <animate attributeName="opacity" values="0;0.8" begin="7.3s" dur="0.6s" fill="freeze"/>
 </text>
 </svg>
