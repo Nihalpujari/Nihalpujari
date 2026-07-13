@@ -23,15 +23,11 @@ width="100%">
 
 <img src="https://img.shields.io/github/followers/Nihalpujari?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=1c1c1c">
 
-
 &nbsp;
-
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNihalpujari&query=%24.stars&style=for-the-badge&logo=github&label=Total%20Stars&color=58A6FF&labelColor=1c1c1c">
 
-
 &nbsp;
-
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNihalpujari&query=%24.forks&style=for-the-badge&logo=github&label=Total%20Forks&color=58A6FF&labelColor=1c1c1c">
 
@@ -46,24 +42,45 @@ alt="GitHub streak">
 
 </div>
 
+
+---
+
 ## 💫 About Me
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <img src="light.svg" alt="Nihal Pujari — AI · ML · RAG" width="100%">
-</picture>
+Hi, I'm **Nihal Pujari** 👋
 
-<br/>
+I am an AI and Machine Learning enthusiast working with:
 
-<img src="https://img.shields.io/github/followers/Nihalpujari?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=1c1c1c" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNihalpujari&query=%24.stars&style=for-the-badge&logo=github&label=Total%20Stars&color=58A6FF&labelColor=1c1c1c" alt="Total Stars"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNihalpujari&query=%24.forks&style=for-the-badge&logo=github&label=Total%20Forks&color=58A6FF&labelColor=1c1c1c" alt="Total Forks"/>
+- Python
+- Machine Learning
+- LangChain
+- RAG Systems
+- Generative AI
+- Flask
+- SQL
 
-<br/><br/>
 
-<img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true&background=00000000" alt="Streak"/>
+---
 
-</div>
+## 🚀 Projects
+
+### 🤖 AI CEO Agent
+AI agent built using LangChain and Streamlit.
+
+🔗 Live Demo:
+https://ai-agent-lufthansa-airlines.streamlit.app/
+
+
+### 🧠 ML Practice
+
+Machine learning experiments and implementations.
+
+🔗 Repository:
+https://github.com/Nihalpujari/ML_Practice
+
+
+---
+
+## 🛠 Skills
+
+Python • Machine Learning • Deep Learning • RAG • LangChain • Flask • SQL • Git
