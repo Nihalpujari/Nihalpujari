@@ -6,7 +6,7 @@
 
 <source 
 media="(prefers-color-scheme: dark)"
-srcset="assets/dark.svg">
+srcset="assets/light.svg">
 
 <img 
 src="assets/light.svg"
