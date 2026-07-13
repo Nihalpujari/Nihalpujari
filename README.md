@@ -45,36 +45,6 @@ alt="GitHub streak">
 
 ---
 
-## 💫 About Me
-
-Hi, I'm **Nihal Pujari** 👋
-
-I am an AI and Machine Learning enthusiast working with:
-
-- Python
-- Machine Learning
-- LangChain
-- RAG Systems
-- Generative AI
-- Flask
-- SQL
-
-
----
-
-## 🚀 Projects
-
-### 🤖 AI CEO Agent
-AI agent built using LangChain and Streamlit.
-
-🔗 Live Demo:
-https://ai-agent-lufthansa-airlines.streamlit.app/
-
-
-### 🧠 ML Practice
-
-Machine learning experiments and implementations.
-
 🔗 Repository:
 https://github.com/Nihalpujari/ML_Practice
 
