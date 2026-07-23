@@ -10,7 +10,7 @@ srcset="assets/dark.svg">
 
 <img 
 src="assets/light.svg"
-alt="Nihal Pujari — AI ML RAG LLM's"
+alt="Nihal Pujari — AI ML RAG LLMs"
 width="100%">
 
 </picture>
